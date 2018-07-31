@@ -8,7 +8,7 @@ To execute:
 gradle bootRun
 ```
 
-This service will be running on port: 8234. To see eureka dashboard:
+This service will be running on port: 8761. To see eureka dashboard:
 
 ```
   http://localhost:8761/
